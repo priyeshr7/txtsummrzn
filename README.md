@@ -65,7 +65,7 @@ Testing is a multi-phase process involving both quantitative and qualitative eva
 ### Conclusion and Future Scope 
 The project successfully demonstrated the application of the google/pegasus-cnn_dailymail model, fine-tuned on the Samsung/samsum dataset, to achieve high-quality abstractive summarization of human dialogues. Key accomplishments include efficient dataset integration, effective model fine-tuning using PEGASUS's gap sentence generation, systematic use of ROUGE metrics and qualitative reviews, and a deployment-ready implementation pipeline. The resulting model shows robust performance in fluency and informativeness, handling informal dialogue with variable structures.
 
-- Future enhancements and research opportunities include:
+Future enhancements and research opportunities include:
 * Real-Time Summarization Engines: Integrating the system into messaging platforms for live summary generation.
 * Domain Adaptation and Transfer Learning: Fine-tuning PEGASUS on domain-specific conversational data (e.g., customer support, medical consultations).
 * Multilingual Summarization: Enhancing PEGASUS or integrating other multilingual models to support non-English languages.
